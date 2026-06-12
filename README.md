@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/heavy-breathing-silent-room/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Heavy Breathing Silent Room](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heavy-breathing-silent-room/) |
+| **Get License** | [Music Rights & Licensing for Heavy Breathing Silent Room](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heavy-breathing-silent-room/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/3153)
 
 ---
 
