@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/heavy-breathing-silent-room/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Heavy Breathing Silent Room](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heavy-breathing-silent-room/) |
+| **Get License** | [Get License For Heavy Breathing Silent Room](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heavy-breathing-silent-room/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Shadows falling on the hardwood floor
+> I ain't looking for the open door
+> Got the moonlight painting on your skin
+> This is exactly where the night begins
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
